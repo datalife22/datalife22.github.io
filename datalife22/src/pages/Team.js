@@ -1,8 +1,12 @@
+import Layout from "../components/Layout";
+
 function Team() {
     return (
-
-        <h1>Hello Team</h1>
-
+        <>
+        <Layout>
+          <h1>Hello Team</h1>
+        </Layout>
+      </>
     );
   }
   
