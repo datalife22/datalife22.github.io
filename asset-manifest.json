@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/datalife22.github.io/static/css/main.dd4a7dda.css",
+    "main.js": "/datalife22.github.io/static/js/main.e3565e68.js",
+    "static/js/787.f548fb31.chunk.js": "/datalife22.github.io/static/js/787.f548fb31.chunk.js",
+    "static/media/polimi_logo.svg": "/datalife22.github.io/static/media/polimi_logo.41e9a9c1f59b7a0e2764891652a1ef61.svg",
+    "static/media/nyu_logo.svg": "/datalife22.github.io/static/media/nyu_logo.6426b998c4eff149c0f5089c9ca828fe.svg",
+    "index.html": "/datalife22.github.io/index.html",
+    "main.dd4a7dda.css.map": "/datalife22.github.io/static/css/main.dd4a7dda.css.map",
+    "main.e3565e68.js.map": "/datalife22.github.io/static/js/main.e3565e68.js.map",
+    "787.f548fb31.chunk.js.map": "/datalife22.github.io/static/js/787.f548fb31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4a7dda.css",
+    "static/js/main.e3565e68.js"
+  ]
+}
